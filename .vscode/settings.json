@@ -2,10 +2,13 @@
   "cSpell.words": [
     "autoincrement",
     "codegen",
+    "constsnts",
     "datasource",
     "jsxdev",
+    "jwks",
     "respawn",
-    "upsert"
+    "upsert",
+    "userinfo"
   ],
   "editor.formatOnSave": true,
   "prettier.requireConfig": true
