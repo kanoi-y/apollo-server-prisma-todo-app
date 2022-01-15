@@ -1,5 +1,12 @@
 {
-  "cSpell.words": ["codegen", "jsxdev", "respawn"],
+  "cSpell.words": [
+    "autoincrement",
+    "codegen",
+    "datasource",
+    "jsxdev",
+    "respawn",
+    "upsert"
+  ],
   "editor.formatOnSave": true,
   "prettier.requireConfig": true
 }
